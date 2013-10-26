@@ -1,6 +1,6 @@
 // A nonce is a number or string used only once.
 // This is useful for generating a unique token for login pages
-// to prevent duplicate or authorized submissions.
+// to prevent duplicate or unauthorized submissions.
 // @url github.com/LarryBattle/nonce-golang
 // @license MIT , 2013
 // @author Larry Battle, github.com/LarryBattle
